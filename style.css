@@ -111,6 +111,7 @@ select:focus {
 }
 
 footer {
+    box-sizing: border-box;
     font-size: 12px;
     padding: 5px;
     position: absolute;
